@@ -1,4 +1,4 @@
-Project: Lemonade App - Starter Code
+Project: Lemonade App - Forked from [https://github.com/google-developer-training/android-basics-kotlin-lemonade-app](https://github.com/google-developer-training/android-basics-kotlin-lemonade-app)
 ==================================
 
 Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
